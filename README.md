@@ -39,25 +39,19 @@ This project analyzes retail sales data using SQL and PostgreSQL to discover bus
 ## Screenshots
 
 ### Top Products
-
-![Top Products](screenshots/top_products.png)
+![Top Products](top_products.png)
 
 ### Top Profitable Cities
-
-![Top Cities](screenshots/top_cities_profit.png)
+![Top Cities](top_cities_profit.png)
 
 ### Sales by Category
-
-![Sales Category](screenshots/sales_by_category.png)
+![Sales Category](sales_by_category.png)
 
 ### Shipping Analysis
-
-![Shipping](screenshots/shipping_analysis.png)
+![Shipping](shipping_analysis.png)
 
 ### Negative Profit Sub-Categories
-
-![Negative Profit](screenshots/negative_profit.png)
+![Negative Profit](negative_profit.png)
 
 ### Top Customers by Profit
-
-![Customers Profit](screenshots/top_customers_profit.png)
+![Customers Profit](top_customers_profit.png)
