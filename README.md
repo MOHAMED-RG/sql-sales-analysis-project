@@ -7,6 +7,9 @@ This project analyzes retail sales data using SQL and PostgreSQL to discover bus
 
 ---
 
+## Dataset
+[Superstore Dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final/data)
+
 ## Tools Used
 
 - PostgreSQL
