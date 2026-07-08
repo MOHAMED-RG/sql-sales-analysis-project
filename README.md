@@ -5,7 +5,7 @@
 
 This project analyzes retail sales data using SQL and PostgreSQL to discover business insights related to sales, profit, customers, shipping, and product performance.
 
----
+----
 
 ## Dataset
 [Superstore Dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final/data)
@@ -16,7 +16,7 @@ This project analyzes retail sales data using SQL and PostgreSQL to discover bus
 - pgAdmin 4
 - SQL
 
----
+----
 
 ## SQL Skills Demonstrated
 
@@ -27,7 +27,7 @@ This project analyzes retail sales data using SQL and PostgreSQL to discover bus
 - CTE
 - Data Analysis
 
----
+----
 
 ## Key Insights
 
@@ -37,7 +37,7 @@ This project analyzes retail sales data using SQL and PostgreSQL to discover bus
 - Tables and Bookcases generated negative profit.
 - Staples was the most sold product.
 
----
+----
 
 ## Screenshots
 
