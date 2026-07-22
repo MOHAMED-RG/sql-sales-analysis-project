@@ -1,5 +1,5 @@
 # sql-sales-analysis-project
-# Retail Sales Analysis Using PostgreSQL
+# Retail Sales Analysis Using PostgreSQL 
 
 ## Project Overview
 
