@@ -1,6 +1,7 @@
 # sql-sales-analysis-project
 # Retail Sales Analysis Using PostgreSQL 
 
+
 ## Project Overview
 
 This project analyzes retail sales data using SQL and PostgreSQL to discover business insights related to sales, profit, customers, shipping, and product performance.
