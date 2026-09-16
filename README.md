@@ -71,42 +71,37 @@ The analysis focuses on answering questions such as:
 
 ### 1. Top-Selling Products
 
-The analysis identifies the products with the highest total quantity sold.
-
-![Top Products](screenshots/top_products.png)
+![Top Products](top_products.png)
 
 ---
 
 ### 2. Most Profitable Cities
 
-The analysis ranks cities based on their total profit contribution.
-
-![Top Profitable Cities](screenshots/top_profitable_cities.png)
+![Top Profitable Cities](top_cities_profit.png)
 
 ---
 
 ### 3. Sales by Category
 
-Technology generated the highest total sales, followed by Furniture and
-Office Supplies.
-
-![Sales by Category](screenshots/sales_by_category.png)
+![Sales by Category](sales_by_category.png)
 
 ---
 
 ### 4. Shipping Analysis
 
-Average shipping time was calculated for each shipping mode.
-
-![Shipping Analysis](screenshots/shipping_analysis.png)
+![Shipping Analysis](shipping_analysis.png)
 
 ---
 
 ### 5. Negative Profit Sub-Categories
 
-This analysis identifies sub-categories where total profit was negative.
+![Negative Profit Sub-Categories](negative_profit.png)
 
-![Negative Profit Sub-Categories](screenshots/negative_profit_subcategories.png)
+---
+
+### 6. Top Customers by Profit
+
+![Top Customers by Profit](top_customers_profit.png)
 
 ## 📂 Project Structure
 
